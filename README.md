@@ -1,3 +1,4 @@
+Image Classification using CIFAR-10 Dataset
 Overview
 This project involves building an image classification model using Principal Component Analysis (PCA) and Convolutional Neural Network (CNN) algorithms. The goal is to classify images from the CIFAR-10 dataset into 10 different classes with high accuracy.
 
