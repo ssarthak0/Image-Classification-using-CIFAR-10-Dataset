@@ -30,8 +30,8 @@ Achieved an accuracy of 85% on the CIFAR-10 dataset.
 
 Tech Stack
 
-Python 3.x
-TensorFlow
-Keras
-NumPy
+Python 3.x,
+TensorFlow,
+Keras,
+NumPy,
 Matplotlib (for visualization)
