@@ -27,7 +27,9 @@ Evaluation:
 
 Evaluated model accuracy, precision, recall, and F1 score on the test dataset.
 Achieved an accuracy of 85% on the CIFAR-10 dataset.
+
 Tech Stack
+
 Python 3.x
 TensorFlow
 Keras
